@@ -2,6 +2,13 @@
 A simple programme that compares a query with a set of documents and returns similarity scores for each comparison.
 Makes use of Python libraries of nltk and gensim.
 
+# Run instructions
+
+Run retrieve_reactions.py by executing the following command in your operating system's console/terminal.
+
+python text_compare.py
+
+
 # Sample output
 
 Query: The situation was overwhelming!
