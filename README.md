@@ -4,7 +4,7 @@ Makes use of Python libraries of nltk and gensim.
 
 # Run instructions
 
-Run retrieve_reactions.py by executing the following command in your operating system's console/terminal.
+Run text_compare.py by executing the following command in your operating system's console/terminal.
 
 python text_compare.py
 
