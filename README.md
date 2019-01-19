@@ -5,7 +5,9 @@ Makes use of Python libraries of nltk and gensim.
 # Sample output
 
 Query: The situation was overwhelming!
+
 ======================
+
 Sometimes it's better to light a flamethrower than curse the darkness.==> 0.0
 
 The situation was horrible, but not without its fascination.==> 0.42229974
