@@ -1,5 +1,6 @@
 # nltk-compare
-Check similarity of a query with a set of documents
+A simple programme that compares a query with a set of documents and returns similarity scores for each comparison.
+Makes use of Python libraries of nltk and gensim.
 
 # Sample output
 
