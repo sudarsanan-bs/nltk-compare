@@ -13,7 +13,6 @@ raw_documents = ["Sometimes it's better to light a flamethrower than curse the d
              "So we beat on, boats against the current, borne back ceaselessly into the past.",
              "So I walked back to my room and collapsed on the bottom bunk, thinking that if people were rain, I was drizzle and she was a hurricane.",
             "In a hole in the ground there lived a hobbit."]
-#print("Number of documents:",len(raw_documents))
 
 #####Tokenize#####
 gen_docs = [[w.lower() for w in word_tokenize(text)] 
