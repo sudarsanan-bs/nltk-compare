@@ -29,6 +29,8 @@ In a hole in the ground there lived a hobbit.==> 0.0
 
 # References
 
+Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
+
 https://pythonspot.com/category/nltk/
 
 https://radimrehurek.com/gensim/
